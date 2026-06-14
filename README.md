@@ -1,4 +1,4 @@
-# PJATK-UTP-JAVA
+# JAVA-HOMEWORKS
 
 Homework assignments from my university's Java course.
 
